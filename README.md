@@ -14,7 +14,7 @@ reproducibility
 
 ## Authors
 
-* **Bhavna Hurgobi** - *Initial work* scRNA-Seq pipeline
+* **Bhavna Hurgobin** - *Initial work* scRNA-Seq pipeline
 * **Parwinder Kaur** - Project Lead & Mastermind
 * **Wes Wilson** - Machine Learning, Static Analysis & Testing, Repo Maintainer
 * **Audrey Xie** - DataVis
