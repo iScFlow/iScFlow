@@ -19,6 +19,5 @@ reproducibility
 * **Wes Wilson** - Machine Learning, Static Analysis & Testing, Repo Maintainer
 * **Audrey Xie** - DataVis
 * **Stephanie	Hicks**
-* **Brian	Skjerven** - HPC optimization
 
 See also the list of [contributors](https://github.com/iScFlow/iScFlow/graphs/contributors) who participated in this project.
